@@ -2,39 +2,72 @@ Victoria Bloodworth, the Devil
 2r 2black 1cl
 Legendary Creature - Demon, Devil
 First strike, deathtouch
-When Victoria Bloodworth, the Devil enters the battlefield, 
+When Victoria Bloodworth, the Devil enters the battlefield, all Demons under your Control gain +1/+1
+Whenever an angle enters the Battlefield under another Players Control, goad it
+(tab 4black) put a demon counter on another creature. This creature has the demon creature type in Addition to its other types.
+5/3
 
 Hwang Yumi, the stable Infected
-green/white
+1green 2white 1cl
 Legendary Creature - Human, Infected, Cursed
+First Strike
+Whenever Hwang Yumi, the stable Infected deals damage to another creature, put an infected counter on the other creature.
+If the number of infected counter is equal or bigger to the creatures toughness, this creature deals 2 damage to it's Controller and is put into the graveyard
+2/6
 
 Kyoko, the darkness creation
-black
+2black
 Legendary Creature - Vessel
+(2 black) put a flying counter on any creature under your Control
+While Kyoko, the Darkness creation remains on the Battlefield gain protection against flying
+Transform: [...]
+1/2
 (Transform)
 Yami, Goddess of Darkness
-black, blue
+black, blue, red
 Legendary Planeswalker - God
++1 Create a 1/1 black Darkness Creature Token
+-3 Create an Emblem of Darkness and attach it to one creature
+-7 Exile all Creatures with the trait Darkness and create a black,blue,red Darkness creature token with trample. It's strength and toughness is equal to the amount of creatures exiled that way
+4
 
 Lucy
-Red/black
+2 red 1 black 2cl
 Legendary Creature - Human, Demon, Fighter
+Menace
+Whenever Lucy deals Combat Damage to a Player, you may choose one
+1 - You gain life equal to the amount of Damage dealt
+2 - Lucy gains +0/+1 counters equal to the amount of Damage dealt
+3 - Lucy gainst +1/+0 counters equal to half of the amount of Damage dealt
 
 Nina
-Blue/black
+2 blue 1 black 2cl
 Legendary Creature - Human, Demon
+(tab 1blue 1 black) Put a "Soul" Counter on target creature. Nina gains hexproof until your next upkeep
+
+Whenever Nina deals Combat damage to any target, the Soul Counter deal damage equal to the amount on the individual creature. If Nina deals Combat Damage to a target with Soul Counter, remove those counters from said creature and put an equal amount of +1/+1 counter on Nina
+1/4
 
 Mieko
-Black/white
-Legendary Creature - Human
+2 black 2 white
+Legendary Creature - Human, Pirate
+tab (1 black) put a -1 -1 counter on any creature
+tab (1 White) put a +1/+1 counter on any creature
+1/2
 
 Kira
 Black/red
 Legendary Creature - Human, Assassin
 
+
 Skylar
 Green/white
 Legendary Planeswalker - Elf, Fighter
++1 Gain a Food token
+-3 Every animal gains +2/+2 and trample
+(Define animals)
+-9 Create a copy of every animal with first strike and trample until the end of turn. Consume every Food token. Every animal gains +x/+x where x is the amount of Food token consumed
+3
 
 Levi
 Black/Red
@@ -42,8 +75,28 @@ Legendary Creature - Elf, Drow, Assassin
 
 Lilia
 Red
-Creature - Elf, Assassin
+Creature - Elf, Rogue
 
 Lilly
 Blue/white
 Legendary Creature - Gnome, Wizard, Illusion
+
+Livath
+black/red
+Legendary Creature - Tiefling, Rogue
+
+Antonio
+black/green
+LEgendary Planeswalker - Demon, Raven, Alchemist
++1 Create a unknown Substance token
+-3 Create a life potion
+-9 Curse target creature. Cursed creatures can't attack you or Planeswalker you Control. For every Alchemist Token under your Control, curse another creature
+3
+
+Kuraiko
+White/black
+Legendary Planeswalker - Demon, Ghost, Puppet
++1 Create a 1/1 White Puppet Creature Tokem
+-3 Create a Puppet Emblem and attach it to a creature an Opponent controls
+-9 Every creature with an Emblem attached to it is removed from the Battlefield. creatures removed this way will return to the Battlefield under your Control
+3
