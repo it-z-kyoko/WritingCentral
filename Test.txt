@@ -124,3 +124,12 @@ Legendary Planeswalker - Demon, Nightmare
 -3 Nightmares you Control get +2/+2 for each Nightmare counter on your Battlefield
 -9 Exile every creature with a Nightmare counter on it. Return creatures that way onto the Battlefield with a transformed Nightmare counter. 
 4
+
+Onyx, Guild Leader
+1 black 3cl
+Legendary Creature - Demon, Guild
+When Onyx, Guild Leader enters the Battlefield, create a 1/1 Guildmember Creature Token
+Whenever Onyx, Guild Leader deals Combat Damage, add a +1/+1 Counter on every other Guild Member
+3/5
+
+Melina and Edward
