@@ -20,7 +20,7 @@ Kyoko, the darkness creation
 Legendary Creature - Vessel
 (2 black) put a flying counter on any creature under your Control
 While Kyoko, the Darkness creation remains on the Battlefield gain protection against flying
-Transform: [...]
+Transform: When you declare exactly 3 flying Attackers, transform Kyoko, the Darkness creation
 1/2
 (Transform)
 Yami, Goddess of Darkness
@@ -34,17 +34,17 @@ Legendary Planeswalker - God
 Lucy
 2 red 1 black 2cl
 Legendary Creature - Human, Demon, Fighter
-Menace
+Menacew
 Whenever Lucy deals Combat Damage to a Player, you may choose one
 1 - You gain life equal to the amount of Damage dealt
 2 - Lucy gains +0/+1 counters equal to the amount of Damage dealt
 3 - Lucy gainst +1/+0 counters equal to half of the amount of Damage dealt
+3/5
 
 Nina
 2 blue 1 black 2cl
 Legendary Creature - Human, Demon
 (tab 1blue 1 black) Put a "Soul" Counter on target creature. Nina gains hexproof until your next upkeep
-
 Whenever Nina deals Combat damage to any target, the Soul Counter deal damage equal to the amount on the individual creature. If Nina deals Combat Damage to a target with Soul Counter, remove those counters from said creature and put an equal amount of +1/+1 counter on Nina
 1/4
 
@@ -56,12 +56,14 @@ tab (1 White) put a +1/+1 counter on any creature
 1/2
 
 Kira
-Black/red
+1 Black 2 Red 3cl
 Legendary Creature - Human, Assassin
-
+First Strike
+If two or more Assassin Creatures are declared as attackers alongside Kira, create two 4/4 water Dragon Creature Tokens attacking as well. 
+4/5
 
 Skylar
-Green/white
+1 green 2 White 2cl
 Legendary Planeswalker - Elf, Fighter
 +1 Gain a Food token
 -3 Every animal gains +2/+2 and trample
@@ -70,23 +72,37 @@ Legendary Planeswalker - Elf, Fighter
 3
 
 Levi
-Black/Red
+2 black 1 red 2cl
 Legendary Creature - Elf, Drow, Assassin
+Deathouch, firststrike
+Whenever Levi deals lethal Combat Damage Chose one
+1 - Search one Basic land in your libary, then Shuffle
+2 - Discard your Hand, Draw Cards equal to the amount of Cards discarded
+3 - Search your graveyard for a sorcery with mana amount equal or lower to the toughness of Levi remaining after the Damage was delt
+5/5
 
-Lilia
-Red
+Lilia, Arcane Trickster
+2Red 3cl
 Creature - Elf, Rogue
+(4cl tap) search your library for an artifact with its mana value equal or lower to the amount of rogues on the Battlefield
+Every Sorcery can be casted as it would have flash
+4/3
 
 Lilly
-Blue/white
+1 blue 1 White 1cl
 Legendary Creature - Gnome, Wizard, Illusion
+For each spell, other than creature spells, you may pay 2, if you do, copy that spell. 
+3/5
 
 Livath
-black/red
+1black 1red 3cl
 Legendary Creature - Tiefling, Rogue
+Flash, deathtouch
+When Livath enters the Battlefield, cast one Spell from your graveyard with its mana cost equal to the Devotion to black
+4/5
 
 Antonio
-black/green
+2black 1green 1cl
 LEgendary Planeswalker - Demon, Raven, Alchemist
 +1 Create a unknown Substance token
 -3 Create a life potion
@@ -94,9 +110,17 @@ LEgendary Planeswalker - Demon, Raven, Alchemist
 3
 
 Kuraiko
-White/black
+1white 1black 1cl
 Legendary Planeswalker - Demon, Ghost, Puppet
 +1 Create a 1/1 White Puppet Creature Tokem
 -3 Create a Puppet Emblem and attach it to a creature an Opponent controls
 -9 Every creature with an Emblem attached to it is removed from the Battlefield. creatures removed this way will return to the Battlefield under your Control
 3
+
+Ruby
+3 black
+Legendary Planeswalker - Demon, Nightmare
++1 Create a Nightmare counter, put that counter onto a creature you Control
+-3 Nightmares you Control get +2/+2 for each Nightmare counter on your Battlefield
+-9 Exile every creature with a Nightmare counter on it. Return creatures that way onto the Battlefield with a transformed Nightmare counter. 
+4
